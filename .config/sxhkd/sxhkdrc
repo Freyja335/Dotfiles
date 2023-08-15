@@ -131,8 +131,10 @@ super + KP_Next
 	nitrogen
 super + KP_Left
 	pcmanfm
-
-
+super + KP_Begin
+	discord
+super + KP_Right
+	stacer
 
 
 ### Actions ###
