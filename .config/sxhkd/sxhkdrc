@@ -123,7 +123,6 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 ### PROGRAMS ###
-# the KP buttons are the numpad keys, the ones shown in the .conkyrc file
 super + KP_End
 	google-chrome-stable
 super + KP_Down
@@ -136,7 +135,8 @@ super + KP_Begin
 	discord
 super + KP_Right
 	stacer
-
+super + KP_Home
+	vscodium
 
 ### Actions ###
 #take a fullscreen screenshot

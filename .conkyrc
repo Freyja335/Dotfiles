@@ -119,6 +119,7 @@ ${color1}[S]+ numpad3${alignr}${color2}nitrogen${color}
 ${color1}[S]+ numpad4${alignr}${color2}pcmanfm${color}
 ${color1}[S]+ numpad5${alignr}${color2}discord${color}
 ${color1}[S]+ numpad6${alignr}${color2}stacer${color}
+${color1}[S]+ numpad7${alignr}${color2}vscodium${color}
 ${color1}${hr}${color}
 ${color1}[S]+[SHIFT]+r${alignr}${color2}restart bspwm${color}
 ${color1}[S]+[SHIFT]+q${alignr}${color2}power menu${color}
