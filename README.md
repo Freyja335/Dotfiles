@@ -16,7 +16,9 @@ That includes:
 
 
 # Sneak peak of the experience you will have if you use my dotfiles
-With windows open
-![2023:08:15:13:31:30](https://github.com/Freyja335/Dotfiles/assets/92382538/62139647-025a-4b27-89df-91969ea23118)
 Without any windows open
-![2023:08:15:13:30:57](https://github.com/Freyja335/Dotfiles/assets/92382538/2010b729-6fc5-4d60-a3ff-77a1e33f4e29)
+![2023:08:15:19:34:12](https://github.com/Freyja335/Dotfiles/assets/92382538/6a672d55-0261-4f21-8c16-6e4e498c03dd)
+
+With windows open
+![2023:08:15:19:34:16](https://github.com/Freyja335/Dotfiles/assets/92382538/534343c0-bb90-4863-887a-5ed8ecda9480)
+
