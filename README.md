@@ -14,3 +14,9 @@ My repo includes dotfiles made by others and slightly tweaked by me
 That includes:    (for now)
     
     .conkyrc [Distrotube's] Gitlab
+
+# Sneak peak of the experience you will have if you use my dotfiles
+With windows open
+![2023:08:15:13:31:30](https://github.com/Freyja335/Dotfiles/assets/92382538/62139647-025a-4b27-89df-91969ea23118)
+Without any windows open
+![2023:08:15:13:30:57](https://github.com/Freyja335/Dotfiles/assets/92382538/2010b729-6fc5-4d60-a3ff-77a1e33f4e29)
