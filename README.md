@@ -10,5 +10,7 @@ made for people who want to get up and running without messing with config files
 
 # Warning
 My repo includes dotfiles made by others and slightly tweaked by me
+
 That includes:    (for now)
+    
     .conkyrc [Distrotube's] Gitlab
