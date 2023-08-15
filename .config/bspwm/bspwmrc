@@ -11,13 +11,16 @@ bspc config split_ratio          0.52
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
-#autostart
-picom &
-nitrogen --restore &
-polybar &
-conky &
-lxqt-policykit-agent &
+### autostart ###
+picom & #compositor
+nitrogen --restore & #wallpaper
+polybar & #the bar on the top oh the screen
+conky & #the small window that shows the time and the keybinds
+lxqt-policykit-agent & #required for authentication, DO NOT REMOVE
 
-#configs
-xinput --set-prop  "SINOWEALTH Game Mouse"  "libinput Accel Speed" -0.8
-nvidia-settings --load-config-only &
+
+
+### configs ###
+#these are specific to me 
+xinput --set-prop  "SINOWEALTH Game Mouse"  "libinput Accel Speed" -0.8 #mouse sensitivity
+nvidia-settings --load-config-only & #apply nvidia settings after reboot
