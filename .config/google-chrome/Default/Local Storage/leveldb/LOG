@@ -1,0 +1,6 @@
+2023/08/15-11:57:09.239 3 Reusing MANIFEST /home/freyja/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/15-11:57:09.289 3 Recovering log #20
+2023/08/15-11:57:09.340 3 Reusing old log /home/freyja/.config/google-chrome/Default/Local Storage/leveldb/000020.log 
+2023/08/15-12:03:06.925 5 Level-0 table #24: started
+2023/08/15-12:03:06.937 5 Level-0 table #24: 30177 bytes OK
+2023/08/15-12:03:06.942 5 Delete type=0 #20
