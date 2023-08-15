@@ -13,7 +13,7 @@ My repo includes dotfiles made by others and slightly tweaked by me
 
 That includes:    (for now)
     
-    .conkyrc [Derek Taylor's] Gitlab: https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/conky/bspwm/doom-one-01.conkyrc?ref_type=heads
+    .conkyrc [Derek Taylor's Gitlab]: https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/conky/bspwm/doom-one-01.conkyrc?ref_type=heads
 
 # Sneak peak of the experience you will have if you use my dotfiles
 With windows open
