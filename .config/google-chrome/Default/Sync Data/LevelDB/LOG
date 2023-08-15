@@ -1,9 +1,0 @@
-2023/08/15-11:57:09.238 485 Reusing MANIFEST /home/freyja/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/08/15-11:57:09.243 485 Recovering log #18
-2023/08/15-11:57:09.325 485 Reusing old log /home/freyja/.config/google-chrome/Default/Sync Data/LevelDB/000018.log 
-2023/08/15-11:59:48.996 45c Level-0 table #23: started
-2023/08/15-11:59:49.009 45c Level-0 table #23: 114646 bytes OK
-2023/08/15-11:59:49.013 45c Delete type=0 #18
-2023/08/15-12:16:39.474 45c Level-0 table #25: started
-2023/08/15-12:16:39.484 45c Level-0 table #25: 95460 bytes OK
-2023/08/15-12:16:39.487 45c Delete type=0 #22
