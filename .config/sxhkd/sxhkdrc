@@ -143,8 +143,8 @@ super + KP_Home
 super + KP_Delete
 	scrot ~/Pictures/'%Y:%m:%d:%H:%M:%S.jpg'
 #Change input language
-super + alt + g
+super + alt + KP_Divide
 	setxkbmap gr
-super + alt + u
+super + alt + KP_Multiply
 	setxkbmap us
 
