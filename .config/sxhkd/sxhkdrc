@@ -142,3 +142,9 @@ super + KP_Home
 #take a fullscreen screenshot
 super + KP_Delete
 	scrot ~/Pictures/'%Y:%m:%d:%H:%M:%S.jpg'
+#Change input language
+super + alt + g
+	setxkbmap gr
+super + alt + u
+	setxkbmap us
+
