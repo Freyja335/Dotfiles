@@ -13,6 +13,7 @@ My repo includes dotfiles made by others and slightly tweaked by me
 
 That includes:
 - [.conkyrc](https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/conky/bspwm/doom-one-01.conkyrc?ref_type=heads)
+- [alacritty.yml](https://github.com/tmcdonell/config-alacritty/blob/master/alacritty.yml)
 
 
 # Sneak peak of the experience you will have if you use my dotfiles
