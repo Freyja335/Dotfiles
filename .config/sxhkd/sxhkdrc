@@ -143,8 +143,8 @@ super + KP_Home
 super + KP_Delete
 	scrot ~/Pictures/'%Y:%m:%d:%H:%M:%S.jpg'
 #Change input language
-super + alt + KP_Divide
+super + alt + KP_Divide #numpad /
 	setxkbmap gr
-super + alt + KP_Multiply
+super + alt + KP_Multiply #numpad *
 	setxkbmap us
 
