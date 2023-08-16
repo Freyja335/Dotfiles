@@ -22,5 +22,9 @@ Without any windows open
 With windows open
 ![2023:08:15:19:34:16](https://github.com/Freyja335/Dotfiles/assets/92382538/534343c0-bb90-4863-887a-5ed8ecda9480)
 
+Power Menu
+![2023:08:15:22:32:45](https://github.com/Freyja335/Dotfiles/assets/92382538/4a13b1a0-b9ba-47f8-b91e-bd86411a8c44)
+
+
 # Note
 The repo is formated in a way that indicates to the user where to place each folder/file
